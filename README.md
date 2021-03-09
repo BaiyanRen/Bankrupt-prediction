@@ -9,4 +9,3 @@
   #### Model Prediction Explanation
   [SHAP](https://shap.readthedocs.io/en/latest/)
 
-  Visit the [web application](https://bankruptcy-visualization.herokuapp.com/) to play around 95 features in the dataset.
