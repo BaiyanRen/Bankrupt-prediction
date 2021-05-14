@@ -1,7 +1,7 @@
-numpy==1.19.2
-pandas==1.2.2
-matplotlib==3.3.4
-sklearn==0.24.1
-imblearn==0.8.0
-lightgbm==3.2.0
-shap==0.39.0
+numpy
+pandas
+matplotlib
+sklearn
+imblearn
+lightgbm
+shap
