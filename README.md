@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/BaiyanRen/Bankrupt-prediction/HEAD)
+
 # Company Bankruptcy prediction
 
 ### Model
